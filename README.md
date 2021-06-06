@@ -23,3 +23,18 @@ a.	Ask user about ID of post and like it. A post can be liked by 10 users at max
 a.	Take Post ID from user and display list of people who have liked it
 - ### Comment on a Post
 a.	Take post ID and comment from the user and add this comment in the post
+- ### View a Post
+a.	Take post ID and Display the post with its Comments
+- ### View a Post
+a.	Take post ID and Display the post with its Comments
+- ### Share a Post
+a.	Take post ID from user and share it
+- ### View User's Timeline
+a.	Display User Name
+b.	Display user’s posts in his timeline
+- ### View Friend List
+a.	Take ID of a user and display his friends list
+- ### View Page
+a.	Take Page ID and display all its posts
+- ### Search
+a.	Take a keyword from user and display all the People, Pages and Posts having this keyword in their name, title or description respectively.
