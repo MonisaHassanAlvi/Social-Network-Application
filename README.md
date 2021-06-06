@@ -14,6 +14,7 @@ a.	Asks user about his ID and set him as current user of application. Now everyt
 - ### View Home of Current User
 a.	Display posts of all friends shared in last 24 hours. For example,
 ![image](https://user-images.githubusercontent.com/85407775/120929405-5c758600-c702-11eb-8fc9-5d5fcc805aed.png)
+
 b.	Display posts of all his liked pages (or communities) shared in last 24 hours. For example 
 ![image](https://user-images.githubusercontent.com/85407775/120929461-88910700-c702-11eb-8379-dadebf1409a1.png)
 - ### Like a Post
