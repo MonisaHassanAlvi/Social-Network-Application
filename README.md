@@ -1,5 +1,5 @@
 # Social-Network-Application
-A console based social network application devloped on C++.
+A console based social network application developed on C++.
 
 # Tools & Applications
 - Visual Studio
